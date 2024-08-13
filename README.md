@@ -17,6 +17,6 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1eQL46NVVbk8rBIJRKG9q8dcdgWz7YnmJ/view?usp=sharing](https://drive.google.com/file/d/1eQL46NVVbk8rBIJRKG9q8dcdgWz7YnmJ/view?usp=sharing)
 
-<h3 align="left">Connect with me:[https://www.linkedin.com/in/preksha-prakash/](https://www.linkedin.com/in/preksha-prakash/) </h3>
+<h3 align="left">Connect with me: https://www.linkedin.com/in/preksha-prakash/ </h3>
 <p align="left">
 </p>
