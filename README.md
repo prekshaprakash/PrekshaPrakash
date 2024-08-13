@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Predictive Analytics project as a part of my Internship.**
 
-- 🌱 I’m currently learning **about GPT,NPL**
+- 🌱 I’m currently learning **about GenAI and NPL**
 
 - 👯 I’m looking to collaborate on [Machine Learning projects across various use cases](https://github.com/prekshaprakash/PythonProjects)
 
