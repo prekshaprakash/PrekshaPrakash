@@ -11,14 +11,12 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/prekshaprakash](https://github.com/prekshaprakash)
 
-- 📝 Connect with me via LinkedIn [https://www.linkedin.com/in/preksha-prakash/](https://www.linkedin.com/in/preksha-prakash/)
-
 - 💬 Ask me about **Data Science,PowerBI,SQL**
 
 - 📫 How to reach me **23mb0046@iitism.ac.in**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1eQL46NVVbk8rBIJRKG9q8dcdgWz7YnmJ/view?usp=sharing](https://drive.google.com/file/d/1eQL46NVVbk8rBIJRKG9q8dcdgWz7YnmJ/view?usp=sharing)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:[https://www.linkedin.com/in/preksha-prakash/](https://www.linkedin.com/in/preksha-prakash/) </h3>
 <p align="left">
 </p>
