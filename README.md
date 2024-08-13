@@ -1,16 +1,24 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Preksha Prakash</h1>
+<h3 align="center">A data enthusiastic trying to build a career as a data analyst & data scientist</h3>
 
-<!--
-**prekshaprakash/PrekshaPrakash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on **Predictive Analytics project as a part of my Internship.**
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **about GPT,NPL**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👯 I’m looking to collaborate on [Machine Learning projects across various use cases](https://github.com/prekshaprakash/PythonProjects)
+
+- 🤝 I’m looking for help with [Data Analysis projects](https://github.com/prekshaprakash/Data-Analysis-Projects)
+
+- 👨‍💻 All of my projects are available at [https://github.com/prekshaprakash](https://github.com/prekshaprakash)
+
+- 📝 Connect with me via LinkedIn [https://www.linkedin.com/in/preksha-prakash/](https://www.linkedin.com/in/preksha-prakash/)
+
+- 💬 Ask me about **Data Science,PowerBI,SQL**
+
+- 📫 How to reach me **23mb0046@iitism.ac.in**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1eQL46NVVbk8rBIJRKG9q8dcdgWz7YnmJ/view?usp=sharing](https://drive.google.com/file/d/1eQL46NVVbk8rBIJRKG9q8dcdgWz7YnmJ/view?usp=sharing)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
