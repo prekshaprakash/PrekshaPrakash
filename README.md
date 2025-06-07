@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/prekshaprakash](https://github.com/prekshaprakash)
 
-- 💬 Ask me about **Data Science,PowerBI,SQL**
+- 💬 Ask me about **Data Science,PowerBI,SQL,Artificial Intelligence, LLMs**
 
 - 📫 How to reach me **23mb0046@iitism.ac.in**
 
